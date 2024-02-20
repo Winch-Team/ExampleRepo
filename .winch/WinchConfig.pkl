@@ -8,5 +8,5 @@ package {
     "cd .."
     "cargo build"
   }
-  output_dir = "${cwd}/out"
+  output_dir = "../out"
 }
