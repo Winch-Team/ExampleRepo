@@ -1,4 +1,4 @@
-amends "../dev/package.pkl"
+amends "./dev/package.pkl"
 
 package {
   author = "Winch Team"
