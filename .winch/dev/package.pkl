@@ -3,4 +3,5 @@ class Package {
   name: String
   description: String
   build_steps: Listing<String>
+  output_dir: String
 }
