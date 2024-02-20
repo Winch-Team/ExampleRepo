@@ -5,3 +5,5 @@ class Package {
   build_steps: Listing<String>
   output_dir: String
 }
+
+package: Package?
