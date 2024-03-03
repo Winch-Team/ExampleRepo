@@ -2,6 +2,7 @@ class Package {
   author: String
   name: String
   description: String
+  version: String
   build_steps: Listing<String>
   output_dir: String
 }
