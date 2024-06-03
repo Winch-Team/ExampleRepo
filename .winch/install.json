@@ -2,6 +2,6 @@
   "build_steps": [
     "cd ..",
     "cargo build"
-  ]
+  ],
   "executable_dir": "."
 }
