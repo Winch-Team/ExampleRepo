@@ -1,7 +1,8 @@
 {
   "build_steps": [
+    "pwd",
     "cd ..",
-    "cargo build"
+    "pwd"
   ],
   "executable_dir": "."
 }
